@@ -1,0 +1,42 @@
+body {
+    background-color: #728E28;
+}
+
+img {
+    width: 200px;
+    border-radius: 25%;
+}
+
+.portiere {
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+    margin-bottom: 65px;
+}
+
+.difensori {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 65px;
+}
+
+.centrocampisti {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 65px;
+}
+
+.attaccanti {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 65px;
+}
+
+.frase {
+    color: white;
+    font-size: 45px;
+    padding: 25px;
+    text-align: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(73deg, rgba(2,0,36,1) 0%, rgba(11,96,176,1) 50%);
+}
